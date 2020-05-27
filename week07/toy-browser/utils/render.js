@@ -17,4 +17,4 @@ function render(viewport, elem) {
 	}
 }
 
-module.exports = 
+module.exports = render
